@@ -10,9 +10,9 @@ Additional documentation on community and user mods can be found on the [User Mo
 
 Our goal is to be an inclusive community for all. Our general [code of conduct](/code-of-conduct.md) covers what's generally acceptable behaviour, and what's not. Local specifics may apply in certain corners of the community!
 
-Check out the awesome [User Mods](https://github.com/VzBoT3D/VzBoT-UserMods#mods) our community has come up with! Could your mod soon also be listed here? 
+Check out the awesome [User Mods](https://github.com/VzBoT3D/VzBoT-UserMods#mods) our community has come up with! Could your mod soon also be listed here?
 
-More community mods can also be found on our [Discord server]().
+More community mods can also be found in the [Mods](https://discordapp.com/channels/829828765512106054/1019188485174865920) section on Discord.
 
 ## 📞 Get in touch
 
