@@ -1,4 +1,4 @@
-![VzBot prototype printhead](./banner.jpg)
+![VzBot prototype printhead](banner.jpg)
 
 ## 📖 Documentation
 
@@ -18,6 +18,6 @@ Discord is home to lots of our team members. Your query has a higher chance of b
 
 Contact the VzBot team through one of our social media channels:
 
-<img style="vertical-align:bottom" src="./discord-24.png" alt="discord"/> [discord.gg/vzbot](https://discord.gg/vzbot)  
-<img style="vertical-align:bottom" src="./twitter-24.png" alt="twitter"/> [@vez_3d](https://twitter.com/vez_3d)  
-<img style="vertical-align:bottom" src="./youtube-24.png" alt="youtube"/> [@Vez3D](https://www.youtube.com/@Vez3D)
+<sub>![discord](discord-24.png)</sub> [discord.gg/vzbot](https://discord.gg/vzbot)  
+<sub>![twitter](twitter-24.png)</sub> [@vez_3d](https://twitter.com/vez_3d)  
+<sub>![youtube](youtube-24.png)</sub> [@Vez3D](https://www.youtube.com/@Vez3D)
