@@ -2,7 +2,7 @@
 
 ## 📖 Documentation
 
-Find [manuals](https://docs.vzbot.org/manuals/) for building printer kits and [guides](https://docs.vzbot.org/general/misc-info/) on using your printer on our [VzBot Docs](https://docs.vzbot.org/).
+Find manuals for building printer kits and guides on using your printer on our [VzBot Docs](https://docs.vzbot.org/).
 
 Additional documentation on community and user mods can be found on the [User Mods](https://github.com/VzBoT3D/VzBoT-UserMods) repository.
 
